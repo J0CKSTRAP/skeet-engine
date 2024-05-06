@@ -25,7 +25,7 @@ what you need to do is download bloxstrap 2.5.3 (anything above this removes the
 But this will be for Bloxstrap since it is easier once you have bloxstrap 2.5.3 go to behavior uncheck "Automatically update Bloxstrap" then go to Channel in the behavior tab then type in "LIVE". 
 We are not done yet next go into the fastflags tab and type into the box "999". Reference images below!
 [image-139](https://github.com/J0CKSTRAP/skeet-engine/assets/81687616/a5e08930-17bb-4323-902d-b11511b4e675)
-[image-149](https://github.com/J0CKSTRAP/skeet-engine/assets/81687616/ec1364a2-b713-4924-a445-3b3eb7805121)
+
 
 
 
