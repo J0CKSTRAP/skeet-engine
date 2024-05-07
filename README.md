@@ -24,7 +24,9 @@ then follow the steps below to get it mostly working in 2024
 what you need to do is download bloxstrap 2.5.3 (anything above this removes the Roblox channel reverser) or you could use a tampermonkey script to reverse your channel. 
 But this will be for Bloxstrap since it is easier once you have bloxstrap 2.5.3 go to behavior uncheck "Automatically update Bloxstrap" then go to Channel in the behavior tab then type in "LIVE". 
 We are not done yet next go into the fastflags tab and type into the box "999". Reference images below!
-[image-139](https://github.com/J0CKSTRAP/skeet-engine/assets/81687616/a5e08930-17bb-4323-902d-b11511b4e675)
+![image-139](https://github.com/J0CKSTRAP/skeet-engine/assets/81687616/293df4ab-ad5b-40f2-a776-18c39b3496f9)
+
+Then you want to Join this game: https://www.roblox.com/games/16138148062/Sonics-Epic-Xtreme-World then you show see a screen with two buttons "Enable Legacy Mode" and "Leave it disabled" this changes the injectscript name and Skeet Engine will NOT work with Legacy Mode enabled so click "leave it disabled" then teleport to a game (Prison Life is the best for testing in)
 
 
 
