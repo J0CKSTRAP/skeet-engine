@@ -27,7 +27,7 @@ We are not done yet next go into the fastflags tab and type into the box "999". 
 ![image-139](https://github.com/J0CKSTRAP/skeet-engine/assets/81687616/293df4ab-ad5b-40f2-a776-18c39b3496f9)
 
 Then you want to Join this game: https://www.roblox.com/games/16138148062/Sonics-Epic-Xtreme-World then you show see a screen with two buttons "Enable Legacy Mode" and "Leave it disabled" this changes the injectscript name and Skeet Engine will NOT work with Legacy Mode enabled so click "leave it disabled" then teleport to a game (Prison Life is the best for testing in) Once you are in the game of your choose spawn in and hit "Inject" on the window that pops up when CE is launched. then wait until you see something like this:
-## Target Script: ClientInputHandler {"user-agent": "Skeet Engine :luascript-HttpGet"}
+**Target Script: ClientInputHandler {"user-agent": "Skeet Engine :luascript-HttpGet"}**
 
 once you see this reset your character in the game and if all goes well you should have the ui. Enjoy :3
 
