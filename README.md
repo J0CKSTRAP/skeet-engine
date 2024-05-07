@@ -25,6 +25,9 @@ what you need to do is download bloxstrap 2.5.3 (anything above this removes the
 But this will be for Bloxstrap since it is easier once you have bloxstrap 2.5.3 go to behavior uncheck "Automatically update Bloxstrap" then go to Channel in the behavior tab then type in "LIVE". 
 We are not done yet next go into the fastflags tab and type into the box "999". Reference images below!
 ![image-139](https://github.com/J0CKSTRAP/skeet-engine/assets/81687616/293df4ab-ad5b-40f2-a776-18c39b3496f9)
+![image-149](https://github.com/J0CKSTRAP/skeet-engine/assets/81687616/ceea86e8-9354-41f7-8bbd-e80ffb3df6a6)
+
+
 
 Then you want to Join this game: https://www.roblox.com/games/16138148062/Sonics-Epic-Xtreme-World then you show see a screen with two buttons "Enable Legacy Mode" and "Leave it disabled" this changes the injectscript name and Skeet Engine will NOT work with Legacy Mode enabled so click "leave it disabled" then teleport to a game (Prison Life is the best for testing in) Once you are in the game of your choose spawn in and hit "Inject" on the window that pops up when CE is launched. then wait until you see something like this:
 **Target Script: ClientInputHandler {"user-agent": "Skeet Engine :luascript-HttpGet"}**
